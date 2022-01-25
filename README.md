@@ -11,6 +11,9 @@ rootディレクトリにいることを確認して↓に移行
 ```
 brew install nodebrew
 
+nodebrew install-binary v16.11.0
+
+nodebrew use v16.11.0
 
 ```
 
@@ -18,10 +21,6 @@ brew install nodebrew
 
 ```bash
 npm install
-
-nodebrew install-binary v16.11.0
-
-nodebrew use v16.11.0
 ```
 
 
